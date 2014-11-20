@@ -5,7 +5,9 @@ layouts: default
 
 <html>
 	<head>
-		<title>{{site. title}}</html>
+
+		
+		<title>{{site. title}}</title>
 	</head>
 	<body>
 		<h1>TLD Design, OKLM</h1>
