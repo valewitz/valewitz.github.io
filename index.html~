@@ -1,13 +1,11 @@
 ---
 title: home
-layouts: default
+layout: default
 ---
 
 <html>
-	<head>
-
-		
-		<title>{{site. title}}</title>
+	<head>	
+		<title>{{site: title}}</title>
 	</head>
 	<body>
 		<h1>TLD Design, OKLM</h1>

@@ -1,6 +1,6 @@
 ---
 title: Billet de 1$
-layout: post.html
+layout: post
 ---
 
 <h1>Qu'est-ce que le Lorem Ipsum ?</h1>

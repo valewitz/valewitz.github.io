@@ -1,6 +1,6 @@
 ---
 title: Billet de 2$
-layout: post.html
+layout: post
 ---
 
 <h1>D'où vient-il ?</h1>
